@@ -6,6 +6,7 @@ namespace EVEN_STRING
     {
         static void Main(string[] args)
         {
+            
             string a = "EPAMITDAYS";
 
             for (int i = 1; i < a.Length; i++)
